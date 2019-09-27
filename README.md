@@ -1,4 +1,4 @@
-# Advanced Python Workshop
+# Pursuit Advanced Workshops: Python 
 
 Here are all the materials for the workshop. 
 **Updates:**
