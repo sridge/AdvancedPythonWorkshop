@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/1DOTR8WUAzIaTcJG6uhtxx5wCswSiEuWyfNBh7lQg
 Day 2 Lectures: <br>
 https://docs.google.com/presentation/d/1ZhvyRZAixR6tCj-8P-wqw56nKfS8Ly8GrDkPomMPatQ/edit
 
-## Running the exercises:
+## Running the exercises
 
 1. Go to [mybinder.org](http://www.mybinder.org)
 2. Enter the repository url: ```https://github.com/sridge/AdvancedPythonWorkshop/```
