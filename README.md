@@ -12,6 +12,6 @@ https://docs.google.com/presentation/d/1DOTR8WUAzIaTcJG6uhtxx5wCswSiEuWyfNBh7lQg
 
 ## Running the exercises
 
-1. Go to [mybinder.org](http://www.mybinder.org)
+1. Go to [mybinder.org](https://mybinder.org)
 2. Enter the repository url: ```https://github.com/sridge/AdvancedPythonWorkshop/```
 3. Click the ```launch``` button on the lower right
